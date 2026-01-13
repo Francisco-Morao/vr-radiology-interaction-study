@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Controllers Input Action",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "715bd7b1-8c60-4f0f-a570-f4df2a8acdc6",
+            "actions": [
+                {
+                    "name": "Select",
+                    "type": "Button",
+                    "id": "e2b23cc6-d68c-4385-be94-2737a483bb85",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6f8b3c2b-ccc3-48d7-9a9a-c1e5c7ef7f39",
+                    "path": "<XRSimulatedController>{RightHand}/gripButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Select",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
