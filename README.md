@@ -16,4 +16,4 @@ for 3D object manipulation in virtual reality.
 
 ## Supplementary Material
 A demonstration video is available at:
-https://link-to-your-video
+[https://link-to-your-video](https://www.youtube.com/clip/UgkxCB_3AnE81n-GZEIgm_OmzTuEv_8_sH8s)
